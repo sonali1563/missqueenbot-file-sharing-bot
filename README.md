@@ -1,11 +1,4 @@
 
-<b><h1> Main Bot diployed On Render <h1></b>
-
-\br\be
-
-
-
-
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
